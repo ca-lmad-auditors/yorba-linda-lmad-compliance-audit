@@ -10,7 +10,7 @@ The primary focus of this case study is the unmitigated fuel modification hazard
 
 ## Core Compliance Conflicts
 
-* **The Safety Hazard:** The underlying fee estate contains an overgrown, unmitigated pine and pepper tree canopy that actively violates **Vista Del Verde Development Plan Condition VP-1-21** in the destruction of defensible space from ajoin pre-1980 non fire resistant homes with shingle roof neighborhood (majority of loss identified in the OCFA 2008 Freeway Complex Fire Report and **Orange County Fire Authority (OCFA) Guideline B-09**, directly obstructing emergency rescue access and generating an illegal fuel load over USDOT regulated high-pressure utility lines.
+* **The Safety Hazard:** The underlying fee estate contains an overgrown, unmitigated pine and pepper tree canopy that actively violates **Vista Del Verde Development Plan Condition VP-1-21** in the destruction of defensible space from ajoin pre-1980 non fire resistant homes with shingle roof neighborhood (majority of loss identified in the OCFA 2008 Freeway Complex Fire Report) and **Orange County Fire Authority (OCFA) Guideline B-09**, directly obstructing emergency rescue access and generating an illegal fuel load over USDOT regulated high-pressure utility lines.
 * **The Municipal Action:** On June 16, 2026, the Yorba Linda City Council adopted Resolution No. 2026-5996, certifying an $11,180,144 district-wide assessment roll. In doing so, the Council voted to overrule formal, City clerk office stamped professional engineering protests, choosing to expend public LMAD funds to maintain a known public nuisance solely to preserve the private visual preferences of an adjacent parcel.
 
 
