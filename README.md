@@ -1,12 +1,19 @@
 # Infrastructure Safety & Land Use Compliance Audit: Tract 16043 / Zone L-5A
+UPDATE 10/08/2026: Notice of Administrative Default Timeline
+The City of Yorba Linda has been formally served with a Notice of Intent to Mitigate the Tract 16043 fire/pipeline hazard. The City Clerk acknowledged official receipt on October 7, 2026. The City has been given until October 14, 2026, to provide a P.E.-stamped technical injunction defending the fuel load, or the City’s silence will legally constitute an administrative default and waiver of objection.
 
+See newly uploaded documents:
+
+Exhibit A: OC Register article documenting the City’s institutional awareness of pine tree fire hazards.
+
+Exhibit B: The official Notice of Intent and the City Clerk's confirmation of receipt.
+
+Exhibit C: The October 6, 2026, Written Public Comment entering Willdan's server blocks into the municipal record.
 ## Project Overview
 
 This open-source data repository serves as a permanent, public administrative record documenting infrastructure maintenance compliance, fire code adherence, and structural risk management protocols within the Street Lighting and Landscaping Maintenance District (LMAD) utility corridors of Yorba Linda, California.
 
 The primary focus of this case study is the unmitigated fuel modification hazard located on the Chicago Avenue slope (Tract 16043, Local Landscaping Zone L-5A), which sits directly over high-pressure oil and utility transmission lines.
-
----
 
 ## Core Compliance Conflicts
 
