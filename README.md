@@ -9,6 +9,9 @@ Exhibit A: OC Register article documenting the City’s institutional awareness 
 Exhibit B: The official Notice of Intent and the City Clerk's confirmation of receipt.
 
 Exhibit C: The October 6, 2026, Written Public Comment entering Willdan's server blocks into the municipal record.
+
+Upload Exhibit D: Public Safety Risk and Liability Fact Sheet
+
 ## Project Overview
 
 This open-source data repository serves as a permanent, public administrative record documenting infrastructure maintenance compliance, fire code adherence, and structural risk management protocols within the Street Lighting and Landscaping Maintenance District (LMAD) utility corridors of Yorba Linda, California.
