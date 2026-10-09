@@ -1,5 +1,6 @@
 # Infrastructure Safety & Land Use Compliance Audit: Tract 16043 / Zone L-5A
 UPDATE 10/08/2026: Notice of Administrative Default Timeline
+
 The City of Yorba Linda has been formally served with a Notice of Intent to Mitigate the Tract 16043 fire/pipeline hazard. The City Clerk acknowledged official receipt on October 7, 2026. The City has been given until October 14, 2026, to provide a P.E.-stamped technical injunction defending the fuel load, or the City’s silence will legally constitute an administrative default and waiver of objection.
 
 See newly uploaded documents:
