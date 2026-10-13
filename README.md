@@ -17,8 +17,8 @@ Upload Exhibit D: Public Safety Risk and Liability Fact Sheet
 
 ### English (Original)
 ![Public Safety Emergency - English]
-English Exhibit| 繁體中文展示 | Exhibición en Español |
-| ![EN](/Exhibit_D_Public_Safety_Crisis_Overview_Slide.jpg).| ![ZH](/public_safety_slide_zh-CN.jpg) | ![ES](/public_safety_slide_es.jpg) |
+English Exhibit | 
+| ![EN](/Exhibit_D_Public_Safety_Crisis_Overview_Slide.jpg).|| 繁體中文展示 ![ZH](/public_safety_slide_zh-CN.jpg) |Exhibición en Español | ![ES](/public_safety_slide_es.jpg) |
 
 ## Project Overview
 
