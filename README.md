@@ -13,7 +13,10 @@ Exhibit C: The October 6, 2026, Written Public Comment entering Willdan's server
 
 Upload Exhibit D: Public Safety Risk and Liability Fact Sheet
 | :---: | :---: | :---: |
+## Public Safety Awareness Exhibits / 公共安全宣導圖表 / Exhibiciones de Seguridad Pública
 
+### English (Original)
+![Public Safety Emergency - English]
 English Exhibit| 繁體中文展示 | Exhibición en Español |
 | [EN](/public_safety_slide_EN.jpg).| [ZH](/public_safety_slide_zh-CN.jpg) | ![ES](/public_safety_slide_es.jpg) |
 
