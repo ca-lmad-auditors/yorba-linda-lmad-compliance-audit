@@ -12,9 +12,9 @@ Exhibit B: The official Notice of Intent and the City Clerk's confirmation of re
 Exhibit C: The October 6, 2026, Written Public Comment entering Willdan's server blocks into the municipal record.
 
 Upload Exhibit D: Public Safety Risk and Liability Fact Sheet
+| :---: | :---: | :---: |
 [EN](/Exhibit_D_Public_Safety_Crisis_Overview_Slide.jpg)
 | 繁體中文展示 | Exhibición en Español |
-| :---: | :---: | :---: |
 | ![ZH](/public_safety_slide_zh-CN.jpg) | ![ES](/public_safety_slide_es.jpg) |
 
 ## Project Overview
