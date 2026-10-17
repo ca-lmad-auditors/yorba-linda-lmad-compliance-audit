@@ -5,8 +5,16 @@ The City of Yorba Linda has been formally served with a Notice of Intent to Miti
 
 See newly uploaded documents:
 
-Exhibit A: OC Register article documenting the City’s institutional awareness of pine tree fire hazards.
+Exhibit A: Evidence of Prior Municipal Knowledge & OCFA Hazard Mandate (CA Gov Code § 835)
+**Official Public Record & Prior Notice (May 2013)**
+This exhibit contains the May 2013 *Orange County Register* public record confirming that the City of Yorba Linda and the Orange County Fire Authority (OCFA) possessed actual, prior knowledge of the severe combustion hazards posed by pine tree species in fire-prone areas.
 
+[Original Unaltered Record](/Exhibit_A_OC_Register_City_Pine_Tree_Moratorium_2013.pdf.pdf): The unedited public source document establishing baseline authenticity and chain of custody.
+[P.E. Annotated Executive Exhibit](/Exhibit_A_OC_Register_2013_Annotated_Hazard_Mandate.jpg): Technical exhibit isolating the three critical liability admissions for regulatory and media review:
+    1.  OCFA Fire Safety Mandate: Formal OCFA designation of pine species as 'undesirable' due to severe wildfire risk.
+    2.  High Flammability & Proximity: Official municipal recognition of inherent combustion dangers from natural pine oils near residential structures.
+    3.  Duty to Neighbors: Public Works' affirmation of the legal responsibility to mitigate known hazard risks to protect adjacent properties.
+       
 Exhibit B: The official Notice of Intent and the City Clerk's confirmation of receipt.
 
 Exhibit C: The October 6, 2026, Written Public Comment entering Willdan's server blocks into the municipal record.
