@@ -1,4 +1,13 @@
 # Infrastructure Safety & Land Use Compliance Audit: Tract 16043 / Zone L-5A
+# Yorba Linda LMAD Compliance Audit & Hazard Abatement
+
+**PUBLIC SAFETY EMERGENCY: HIGH-PRESSURE PIPELINE & FORESTED FUEL LOAD**
+*Administrative Default Achieved: October 14, 2026*
+
+[![High-Pressure Pipeline Hazard - Watch Video](https://img.youtube.com/vi/5VXldu_HiKg/maxresdefault.jpg)](https://www.youtube.com/watch?v=5VXldu_HiKg)
+
+> **Notice:** Following the exhaustion of administrative remedies and the City of Yorba Linda's October 14, 2026 technical default, the hazardous forested fuel load over the Chicago Avenue high-pressure natural gas pipeline is proceeding toward physical self-help abatement pursuant to **CA Civil Code §§ 3495 & 3502** and **OCFA Fire Prevention Guideline B-09**.
+> 
 UPDATE 10/08/2026: Notice of Administrative Default Timeline
 
 The City of Yorba Linda has been formally served with a Notice of Intent to Mitigate the Tract 16043 fire/pipeline hazard. The City Clerk acknowledged official receipt on October 7, 2026. The City has been given until October 14, 2026, to provide a P.E.-stamped technical injunction defending the fuel load, or the City’s silence will legally constitute an administrative default and waiver of objection.
