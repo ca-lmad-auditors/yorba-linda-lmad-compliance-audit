@@ -4,6 +4,25 @@
 **PUBLIC SAFETY EMERGENCY: HIGH-PRESSURE PIPELINE & FORESTED FUEL LOAD**
 *Administrative Default Achieved: October 14, 2026*
 
+### 🚨 Engineering Assessment: Chicago Ave. Fire & Abatement Analysis
+
+**Life-Safety Hazard & Code Violation Visualization**
+This video translates static 3D spatial data into a dynamic engineering graphic to demonstrate the immediate threat to pre-1980 homes along Chicago Ave.
+
+<div align="center">
+  <a href="https://youtube.com/shorts/nNLgWmwv1Dg?feature=share">
+    <img src="https://img.youtube.com/vi/nNLgWmwv1Dg/0.jpg" alt="Critical Life-Safety Threat: Chicago Ave. Fire & Abatement Analysis" width="400"/>
+  </a>
+  <br>
+  <em>👆 Click the image above to view the Engineering Visualization Video 👆</em>
+</div>
+
+#### Key Mechanisms of the Potential Mass-Casualty Event:
+* **Distance Vectors (The 100-Ft Threat):** Proves homes sit well within the statutory 100-foot defensible space buffer, subjected directly to wind-driven ember cast.
+* **Slope Convection & Radiant Heat:** The steep incline acts as a chimney, pre-baking the unbroken canopy of invasive pine and pepper trees.
+* **Subterranean Pipeline Alignment:** Maps the exact path of the high-pressure natural gas pipeline intersecting with the encroaching root zones.
+* **OCFA B-09 Staging Obstruction:** Demonstrates that the required clear width and vertical clearance to stage a 75,000-pound Type 1 fire engine is severely compromised by the canopy and slope.
+
 [![High-Pressure Pipeline Hazard - Watch Video](https://img.youtube.com/vi/5VXldu_HiKg/maxresdefault.jpg)](https://www.youtube.com/watch?v=5VXldu_HiKg)
 
 > **Notice:** Following the exhaustion of administrative remedies and the City of Yorba Linda's October 14, 2026 technical default, the hazardous forested fuel load over the Chicago Avenue high-pressure natural gas pipeline is proceeding toward physical self-help abatement pursuant to **CA Civil Code §§ 3495 & 3502** and **OCFA Fire Prevention Guideline B-09**.
