@@ -3,7 +3,16 @@
 
 **PUBLIC SAFETY EMERGENCY: HIGH-PRESSURE PIPELINE & FORESTED FUEL LOAD**
 *Administrative Default Achieved: October 14, 2026*
+# Yorba Linda LMAD Compliance Audit & Public Safety Record
 
+[![Yorba Linda Chicago Ave Hazard Assessment](https://img.youtube.com/vi/03giX_kfqOA/maxresdefault.jpg)](https://youtube.com/shorts/03giX_kfqOA)
+
+### Engineering Assessment & Legal Status
+* **Hazard Identification:** Continuous, unmitigated pine and pepper tree canopy directly overhanging a steep incline (< 100 feet from pre-1980 non-fire-resistant homes), creating extreme slope convection and wind-driven ember cast hazards.
+* **Infrastructure Threat:** Encroaching root systems and heavy fuel loads directly threatening the subterranean high-pressure natural gas pipeline alignment along the toe of the slope.
+* **Regulatory Violations:** Active violations of **OCFA Fire Prevention Guideline B-09** regarding emergency apparatus staging (68,000–75,000 lb vehicles), vertical clearance (< 13'6"), and required defensible space.
+* **Legal Preemption:** Invocation of **CA Civil Code §§ 3495 & 3502** following the expiration of the October 14, 2026 administrative default, establishing lawful property owner self-help abatement rights against municipal inaction.
+  
 ### 🚨 Engineering Assessment: Chicago Ave. Fire & Abatement Analysis
 
 **Life-Safety Hazard & Code Violation Visualization**
