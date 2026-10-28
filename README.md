@@ -1,6 +1,17 @@
 # Infrastructure Safety & Land Use Compliance Audit: Tract 16043 / Zone L-5A
 # Yorba Linda LMAD Compliance Audit & Hazard Abatement
 
+## Formal Municipal Acknowledgment: Notice of Strict Liability
+**Date of Service:** October 26, 2026  
+**Agencies Served:** Yorba Linda City Clerk, OCFA Division Chief, CPUC Safety and Enforcement Division
+
+On October 26, 2026, the City of Yorba Linda formally acknowledged receipt of the Notice of Strict Liability regarding the Chicago Avenue slope hazard. This communication establishes the City's actual knowledge of the unmitigated continuous fuel load, subterranean high-pressure natural gas pipeline threat, and active OCFA Guideline B-09 staging violations. 
+
+*   **Evidentiary Video Served:** [Chicago Ave Pipeline & Fire Hazard](https://youtu.be/9Cw6u9K-664?si=TRrnhKOiOjnS2gJi)
+*   **Legal Preemption Invoked:** CA Gov. Code § 835 (Immunity Voided), CA Health & Safety Code § 13879 (OCFA Emergency Authority), CPUC General Order 112-F.
+*   **Abatement Authorization:** Following the October 14 default, self-help hazard abatement is proceeding under CA Civil Code §§ 3495 & 3502.
+
+📄 **[View Official Proof of Service / Email Receipt](Notice-of-Strict-Liability-City-Clerk-Receipt-Oct26.pdf)**
 **PUBLIC SAFETY EMERGENCY: HIGH-PRESSURE PIPELINE & FORESTED FUEL LOAD**
 *Administrative Default Achieved: October 14, 2026*
 # Yorba Linda LMAD Compliance Audit & Public Safety Record
