@@ -1,6 +1,18 @@
 # Infrastructure Safety & Land Use Compliance Audit: Tract 16043 / Zone L-5A
 # Yorba Linda LMAD Compliance Audit & Hazard Abatement
 
+## Regulatory Escalation Ledger: CPUC SED & CRC Corporate Legal
+**Dispatch Date:** October 29, 2026  
+**Status:** Served & Active 3-5 Business Day Administrative Window
+
+Formal administrative and legal dispatches served on the California Public Utilities Commission (CPUC) Safety and Enforcement Division (SED) and California Resources Corporation (NYSE: CRC) Corporate Legal & Risk Management:
+
+*   **CPUC SED Jurisdictional Correction (File No. 753993):** Formally corrected the CPUC Consumer Affairs Branch (CAB) misclassification regarding "Municipal Utility" jurisdiction. Re-established CPUC SED mandatory authority under CPUC General Order 112-F and 49 CFR Part 192 over CRC's investor-owned high-pressure gas gathering infrastructure.
+*   **CRC Corporate Notice of Encroachment:** Placed CRC Corporate Legal on formal notice regarding un-easemented high-pressure pipeline facilities beneath an unmitigated City-managed fuel load on the Chicago Avenue slope. Invoked historical Vista Del Verde (VDV) development EIR records proving known Wildland-Urban Interface (WUI) hazards and OCFA Guideline B-09 staging violations. Demanded CRC issue a formal Facility Protection Demand against the City of Yorba Linda.
+
+📄 **[View CPUC SED Jurisdictional Correction PDF](CPUC-SED-Jurisdictional-Correction-Oct29.pdf)**  
+📄 **[View CRC Corporate Notice of Encroachment PDF](CRC-Corporate-Notice-Oct29.pdf)**
+
 ## Formal Municipal Acknowledgment: Notice of Strict Liability
 **Date of Service:** October 26, 2026  
 **Agencies Served:** Yorba Linda City Clerk, OCFA Division Chief, CPUC Safety and Enforcement Division
