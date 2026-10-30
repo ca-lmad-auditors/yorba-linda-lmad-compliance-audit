@@ -1,6 +1,14 @@
 # Infrastructure Safety & Land Use Compliance Audit: Tract 16043 / Zone L-5A
 # Yorba Linda LMAD Compliance Audit & Hazard Abatement
 
+## Real Property & Title Audit: Un-Easemented Pipeline Analysis
+**Subject Parcel:** Chicago Avenue Slope Corridor, Yorba Linda, CA  
+**Asset Operator:** California Resources Corporation (NYSE: CRC)
+
+* **Mineral Severance vs. Utility Easement:** Engineering and title reviews confirm CRC holds limited subsurface mineral rights but lacks a recorded public utility easement or surface-use agreement for the high-pressure gas/oil pipeline alignment traversing the slope parcel.
+* **Continuing Encroachment & Non-Disclosure:** The operation of un-easemented high-pressure energy infrastructure—without disclosure of this title defect to the fee simple property owner—constitutes an unauthorized encroachment, continuing private/public nuisance (CA Civil Code § 3479), and unhedged liability.
+* **Regulatory Impact:** Neither municipal landscape access easements nor mineral reservations exempt CRC from CPUC GO 112-F pipeline corridor integrity mandates or SEC Regulation S-K material risk disclosure requirements.
+
 ## Regulatory Escalation Ledger: CPUC SED & CRC Corporate Legal
 **Dispatch Date:** October 29, 2026  
 **Status:** Served & Active 3-5 Business Day Administrative Window
