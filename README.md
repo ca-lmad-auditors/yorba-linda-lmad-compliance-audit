@@ -1,6 +1,21 @@
 # Infrastructure Safety & Land Use Compliance Audit: Tract 16043 / Zone L-5A
 # Yorba Linda LMAD Compliance Audit & Hazard Abatement
 
+## Exhaustion of Remedies: City Attorney Formal Refusal & Threat
+**Dispatch Date:** November 4, 2026  
+**Subject:** City Attorney Refusal to Abate Hazard and Threat of Litigation
+
+On November 4, 2026, the City of Yorba Linda, acting through Contract City Attorney Todd O. Litfin (Rutan & Tucker, LLP), formally responded to the fee property owner's November 3 memorialization. 
+
+Despite being explicitly warned of the imminent WUI fire hazard to pre-1980 homes and the root encroachment on the CPUC GO 112-F pipeline, the City Attorney offered zero mitigation plans. Instead, the City formally asserted that the hazardous vegetation constitutes "City trees" and threatened the fee property owner with "all legal rights and remedies" if the owner executes statutory self-help abatement.
+
+This transmittal legally perfects the City's liability under California Government Code § 835:
+*   **Actual Knowledge:** The inclusion of the forwarded November 3 email proves the City Attorney possesses actual knowledge of the imminent life-safety and infrastructure threats.
+*   **Deliberate Indifference:** The City has formally chosen to utilize municipal legal resources to threaten the underlying fee owner rather than abate the public endangerment located within its limited landscape maintenance easement.
+*   **Final Exhaustion:** The City's explicit refusal to authorize mitigation or perform the mitigation itself finalizes the exhaustion of local administrative remedies.
+
+📄 **[View City Attorney Litfin Formal Refusal PDF](City-Attorney-Litfin-Refusal-Nov4.pdf)**
+
 ## Exhaustion of Remedies: Memorialization of Municipal Inaction
 **Dispatch Date:** November 3, 2026  
 **Subject:** Confirmation of Default and Necessity of Self-Help Abatement
