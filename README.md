@@ -1,6 +1,19 @@
 # Infrastructure Safety & Land Use Compliance Audit: Tract 16043 / Zone L-5A
 # Yorba Linda LMAD Compliance Audit & Hazard Abatement
 
+## Exhaustion of Remedies: Memorialization of Municipal Inaction
+**Dispatch Date:** November 3, 2026  
+**Subject:** Confirmation of Default and Necessity of Self-Help Abatement
+
+Following an in-person meeting at Yorba Linda City Hall on November 3, 2026, Assistant City Clerk Carolina Torres offered an administrative opinion that the property owner lacked "consensus" to proceed with hazard abatement due to the City's discontinued communication. 
+
+This formal dispatch was served on the City Clerk, City Engineer, and OCFA Division 4 to correct the legal and administrative record:
+* **Legal Catalyst vs. Consensus:** Reasserted that under CA Civil Code §§ 3495 and 3502, private self-help abatement of an imminent WUI fire hazard does not require municipal "consensus." It is legally triggered by formal notice followed by the responsible authorities' deliberate failure to mitigate.
+* **Actual Knowledge & Perfected Default:** Established that the City has possessed the substantive P.E. technical hazard report since last year. The October 7, 2026 formal Notice of Strict Liability incorporated this long-standing record, perfecting the administrative default on October 14, 2026, due to ongoing non-responsiveness.
+* **No Tolling of Deadlines:** Clarified that any future communication with the City Engineering Department regarding the Chicago Avenue slope serves strictly as a courtesy notification for physical abatement logistics, and does not toll deadlines or re-open lapsed review periods.
+
+📄 **[View City Clerk Meeting & Default Confirmation PDF](City-Clerk-Meeting-Default-Confirmation-Nov3.pdf)**
+
 ## Real Property & Title Audit: Un-Easemented Pipeline Analysis
 **Subject Parcel:** Chicago Avenue Slope Corridor, Yorba Linda, CA  
 **Asset Operator:** California Resources Corporation (NYSE: CRC)
