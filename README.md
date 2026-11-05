@@ -1,6 +1,19 @@
 # Infrastructure Safety & Land Use Compliance Audit: Tract 16043 / Zone L-5A
 # Yorba Linda LMAD Compliance Audit & Hazard Abatement
 
+## Rejection of Municipal Claim & Perfection of § 835 Liability
+**Dispatch Date:** November 4, 2026  
+**Subject:** Formal Rejection of City Attorney Claim and Notification of Regulatory Agencies
+
+On November 4, 2026, the underlying fee property owner formally responded to City Attorney Litfin's threat, categorically rejecting the City's attempt to classify the hazardous WUI vegetation as "City trees." This dispatch legally dismantling the City's property law premise was simultaneously served to the Yorba Linda City Manager, the Yorba Linda City Council, the CPUC Safety and Enforcement Division (SED), California Resources Corporation (CRC) Corporate Legal, and OCFA.
+
+This transmittal finalizes the administrative record and establishes the following:
+*   **Rejection of the "City Trees" Fiction:** Clarifies that the City merely holds a non-possessory landscape maintenance easement, while the natural fixtures belong to the underlying fee owner. The City cannot claim ownership of a hazard it refuses to maintain.
+*   **Irrelevance of Authorization:** Confirms that private self-help abatement under CA Civil Code §§ 3495 & 3502 requires formal notice and a failure to act, not municipal consensus. 
+*   **Perfection of Liability:** Explicitly notifies the City Council and City Manager that their attorney's threat—issued with actual knowledge of the pipeline and WUI fire threats—voids municipal immunity and perfects the City's strict liability under California Government Code § 835.
+
+📄 **[View Fee Owner Rejection & Regulatory Notice PDF](Fee-Owner-Rejection-of-Litfin-Claim-Nov4.pdf)**
+
 ## Exhaustion of Remedies: City Attorney Formal Refusal & Threat
 **Dispatch Date:** November 4, 2026  
 **Subject:** City Attorney Refusal to Abate Hazard and Threat of Litigation
