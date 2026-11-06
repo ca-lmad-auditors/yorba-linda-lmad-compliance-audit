@@ -1,6 +1,22 @@
 # Infrastructure Safety & Land Use Compliance Audit: Tract 16043 / Zone L-5A
 # Yorba Linda LMAD Compliance Audit & Hazard Abatement
 
+## Federal Regulatory Escalation: SEC Whistleblower Complaint Filed
+**Filing Date:** November 5, 2026  
+**Regulatory Body:** U.S. Securities and Exchange Commission (SEC)  
+**Target Entity:** California Resources Corporation (NYSE: CRC)  
+**SEC TCR Submission Number:** 17938-882-352-834  
+
+On November 5, 2026, the underlying fee property owner formally executed a whistleblower complaint under Section 21F of the Securities Exchange Act of 1934 against California Resources Corporation (NYSE: CRC). 
+
+The complaint alleges that CRC is failing to disclose material, unquantified environmental and infrastructure liabilities to its shareholders regarding its high-pressure natural gas pipeline on the Chicago Avenue slope in Yorba Linda, California. The subterranean pipeline remains compromised by invasive root degradation and a dense, unmitigated WUI forest canopy directly violating CPUC General Order 112-F and OCFA Guideline B-09.
+
+**Key Evidentiary Highlights Logged in Federal Record:**
+* **Exhaustion of Municipal Remedies:** Formally incorporates City Attorney Todd Litfin's November 4, 2026 threat letter (Exhibit D) and the fee owner's rejection dispatch (Exhibit E), establishing that local municipal authorities are actively obstructing infrastructure hazard abatement.
+* **Corporate Knowledge:** Confirms CRC Corporate Legal was served formal notice on October 29, 2026, and CC'd on November 4, 2026, yet failed to issue a facility protection demand or abate the hazard over its high-pressure main.
+
+📄 **[View Official SEC TCR Submission Receipt #17938-882-352-834 (PDF)](SEC-Whistleblower-TCR-Submission-Receipt-Nov5-Redacted.pdf)**
+
 ## Rejection of Municipal Claim & Perfection of § 835 Liability
 **Dispatch Date:** November 4, 2026  
 **Subject:** Formal Rejection of City Attorney Claim and Notification of Regulatory Agencies
