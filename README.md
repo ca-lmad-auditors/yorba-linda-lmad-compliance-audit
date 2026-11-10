@@ -144,15 +144,15 @@ Exhibit B: The official Notice of Intent and the City Clerk's confirmation of re
 
 Exhibit C: The October 6, 2026, Written Public Comment entering Willdan's server blocks into the municipal record.
 
-Upload Exhibit D: Public Safety Risk and Liability Fact Sheet
-| :---: | :---: | :---: |
-
 ## City Attorney Correspondence Exhibits (May 30, 2025)
 
 | Exhibit ID | Document File | Summary & Statutory Context |
 | :--- | :--- | :--- |
 | **Exhibit B1** | [`exhibits/Exhibit_B1_City_Attorney_Email_May30_2025_Raw.pdf`](./exhibits/Exhibit_B1_City_Attorney_Email_May30_2025_Raw.pdf) | **Unedited Primary Email Thread**: Raw correspondence from Contract City Attorney Todd Litfin asserting site safety, invoking City Council Policy E-3, mischaracterizing fee-simple land fixtures as "City trees," and threatening legal remedies[cite: 8, 9]. |
 | **Exhibit B2** | [`exhibits/Exhibit_B2_City_Attorney_Email_May30_2025_Annotated.pdf`](./exhibits/Exhibit_B2_City_Attorney_Email_May30_2025_Annotated.pdf) | **Statutory Defect Analysis**: Annotated legal rebuttal mapping email statements against CA B&P Code § 6700 (lack of P.E. engineering authority), Civil Code § 828 (fee-simple fixtures), Civil Code § 3502 (statutory self-help preemption), and perfection of administrative default[cite: 9]. |
+
+Upload Exhibit D: Public Safety Risk and Liability Fact Sheet
+| :---: | :---: | :---: |
 
 ## Public Safety Awareness Exhibits / 公共安全宣導圖表 / Exhibiciones de Seguridad Pública
 
