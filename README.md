@@ -1,6 +1,17 @@
 # Infrastructure Safety & Land Use Compliance Audit: Tract 16043 / Zone L-5A
 # Yorba Linda LMAD Compliance Audit & Hazard Abatement
 
+## City Council Intervention & Perfection of Actual Notice (Nov 10, 2026)
+
+On Tuesday, November 10, 2026, at 5:30 p.m., the underlying fee property owner delivered an in-person public comment at the Yorba Linda City Council Special Meeting located at 4845 Casa Loma Avenue[cite: 8]. The comment was delivered strictly under Agenda Item A: Public Employee Performance Evaluation for the City Manager (Gov. Code § 54957)[cite: 8]. 
+
+This on-the-record intervention formally strips the City Council of qualified immunity and establishes undeniable "actual notice" of the hazard under CA Gov. Code § 835. It formally connects the City Manager's administrative failures, staff negligence, and the Contract City Attorney's civil rights chilling directly to active federal SEC enforcement (TCR #17938-882-352-834).
+
+| Exhibit ID | Document / Link | Summary & Statutory Context |
+| :--- | :--- | :--- |
+| **Exhibit F1** | [`exhibits/Exhibit_F1_Public_Comment_Transcript_Nov10_2026.md`](./exhibits/Exhibit_F1_Public_Comment_Transcript_Nov10_2026.md) | **Official Public Comment Transcript**: Verbatim record of the ultimatum delivered to the City Council demanding immediate hazard abatement as a condition of the City Manager's employment evaluation. |
+| **Exhibit F2** | [`exhibits/Exhibit_F2_Special_Council_Meeting_Agenda_Nov10_2026.pdf`](./exhibits/Exhibit_F2_Special_Council_Meeting_Agenda_Nov10_2026.pdf) | **Special Meeting Agenda**: Official City of Yorba Linda agenda confirming the November 10, 2026 Closed Session proceedings regarding the City Manager's annual evaluation[cite: 8]. |
+
 ## Federal Regulatory Escalation: SEC Whistleblower Complaint Filed
 **Filing Date:** November 5, 2026  
 **Regulatory Body:** U.S. Securities and Exchange Commission (SEC)  
