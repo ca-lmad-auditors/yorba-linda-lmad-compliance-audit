@@ -102,6 +102,7 @@ On October 26, 2026, the City of Yorba Linda formally acknowledged receipt of th
 📄 **[View Official Proof of Service / Email Receipt](Notice-of-Strict-Liability-City-Clerk-Receipt-Oct26.pdf)**
 **PUBLIC SAFETY EMERGENCY: HIGH-PRESSURE PIPELINE & FORESTED FUEL LOAD**
 *Administrative Default Achieved: October 14, 2026*
+
 # Yorba Linda LMAD Compliance Audit & Public Safety Record
 
 [![Yorba Linda Chicago Ave Hazard Assessment](https://img.youtube.com/vi/03giX_kfqOA/maxresdefault.jpg)](https://youtube.com/shorts/03giX_kfqOA)
@@ -164,6 +165,10 @@ Exhibit C: The October 6, 2026, Written Public Comment entering Willdan's server
 
 Upload Exhibit D: Public Safety Risk and Liability Fact Sheet
 | :---: | :---: | :---: |
+
+Date: 2026-01-12
+Event: Served Final Technical Interrogatory (30 engineering & legal items; City Clerk stamped received JAN 12 2026) on City Engineer Jamie Lai, P.E. and Council; unanswered by 2026-01-19 deadline.
+[Original Unaltered Record](/Exhibit_A2_Final_Technical_Interrogatory_Jan12_2026.pdf)
 
 ## Public Safety Awareness Exhibits / 公共安全宣導圖表 / Exhibiciones de Seguridad Pública
 
