@@ -1,6 +1,11 @@
 # Infrastructure Safety & Land Use Compliance Audit: Tract 16043 / Zone L-5A
 # Yorba Linda LMAD Compliance Audit & Hazard Abatement
 
+### November 2026 Regulatory Escalation & Enforcement Filings
+* **[08_City_Council_Closed_Session_Notice_Nov_17_2026_Redacted.pdf](./08_City_Council_Closed_Session_Notice_Nov_17_2026_Redacted.pdf)** — Written record of public comment delivered ahead of the Nov. 17, 2026 Closed Session (Items A & D), placing the City Council, City Manager, City Attorney, City Engineer, OCFA, and municipal claims administrators on formal notice of Gov. Code § 835 liability, VP 1-21 / OCFA Guideline B-09 violations, and Civil Code §§ 3495/3502 self-help abatement rights.
+* **[09_CRC_Legal_Urgent_Safety_Demand_Nov_18_2026_Redacted.pdf](./09_CRC_Legal_Urgent_Safety_Demand_Nov_18_2026_Redacted.pdf)** — Urgent safety demand served Nov. 18, 2026 on California Resources Corporation (CRC) Legal & Asset Integrity (copied to CPUC, PHMSA, and OCFA) requiring a field inspection and vegetation-removal schedule by Nov. 20, 2026 (5:00 PM PST) for trees encroaching inside the 14-foot pipeline setback above an unrecorded surface alignment (Instrument No. 20000141337).
+* **[10_CPUC_SED_Safety_Enforcement_Complaint_Nov_18_2026_Redacted.pdf](./10_CPUC_SED_Safety_Enforcement_Complaint_Nov_18_2026_Redacted.pdf)** — Formal Nov. 18, 2026 filing with the California Public Utilities Commission (CPUC) Safety and Enforcement Division (SED) – Gas Safety and Reliability Branch invoking Pub. Util. Code §§ 451, 701, 761, 768, General Order 112-F, and 49 CFR Part 192 preemption (resulting in an on-site CPUC field inspection on Nov. 19, 2026).
+
 ## City Council Intervention & Perfection of Actual Notice (Nov 10, 2026)
 
 On Tuesday, November 10, 2026, at 5:30 p.m., the underlying fee property owner delivered an in-person public comment at the Yorba Linda City Council Special Meeting located at 4845 Casa Loma Avenue[cite: 8]. The comment was delivered strictly under Agenda Item A: Public Employee Performance Evaluation for the City Manager (Gov. Code § 54957)[cite: 8]. 
