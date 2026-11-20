@@ -1,6 +1,19 @@
 # Infrastructure Safety & Land Use Compliance Audit: Tract 16043 / Zone L-5A
 # Yorba Linda LMAD Compliance Audit & Hazard Abatement
 
+### Title & Subsurface Restriction Record (Lot 8, Tract No. 16043)
+* **[11_Title_Policy_Exhibit_B_Lot_8_Tract_16043_Order_9701233.pdf](./11_Title_Policy_Exhibit_B_Lot_8_Tract_16043_Order_9701233.pdf)** — Official CLTA Standard Policy legal description (*Exhibit "One"*, Page 32 | Order No. `9701233` | Policy No. `27-01-90-675279`) for **Lot 8 of Tract No. 16043** (Map Book 806, Pages 9–14, Orange County Records).
+
+### Exhibit 11: Title Policy Schedule A / Exhibit B — Lot 8 of Tract No. 16043 (`11_Title_Policy_Exhibit_B_Lot_8_Tract_16043_Order_9701233.pdf`)
+* **Document Reference:** CLTA Standard Policy (1990 Form), Order No. `9701233` | Policy No. `27-01-90-675279` (Exhibit "One" / Exhibit B, Page 32)[cite: 49]
+* **Subject Property (Parcel 1):** Lot 8 of Tract No. 16043, per Map filed in Book 806, Pages 9 to 14 inclusive of Miscellaneous Maps, Official Records of Orange County, California[cite: 49].
+* **Key Legal & Engineering Findings:**
+  1. **Express Exclusion of Surface & Upper-250-Foot Subsurface Operations (`Instrument No. 20000141337`):** The mineral and hydrocarbon reservation recorded **March 17, 2000 as Instrument No. 20000141337** explicitly excludes surface and shallow-subsurface rights[cite: 49]:
+     > *"WITHOUT, HOWEVER, THE RIGHT TO DRILL, MINE, STORE, EXPLORE AND OPERATE THROUGH THE SURFACE OR THE UPPER 250 FEET OF THE SUBSURFACE OF THE LAND HEREINABOVE DESCRIBED..."*[cite: 49]
+     Because the active high-pressure natural gas pipeline lies within the shallow subsurface (**11.5 feet north of the southern property line** per operator field monument `11'-6" S/N PL`), it sits inside the excluded upper-250-foot zone without surface rights under the mineral reservation[cite: 49].
+  2. **Absence of Any Recorded Surface Gas Pipeline Easement (Parcel 2 — `Instrument Nos. 20000098875` & `20010320248`):** Parcel 2 confers only **non-exclusive community easements for access, drainage, encroachment, maintenance, and repair** as shown on the Tract No. 16043 map and described in the **Vista Del Verde Master Declaration** (recorded Feb. 25, 2000 as `Instrument No. 20000098875`) and **Supplemental Declaration for Terraza at Vista Del Verde** (recorded May 18, 2001 as `Instrument No. 20010320248`)[cite: 49]. Neither instrument grants a high-pressure natural gas pipeline right-of-way or confers municipal authority to maintain hazardous deep-rooted trees over a transmission pipeline on Lot 8[cite: 49].
+  3. **Mandatory 14-Foot Setback From Pipeline Edge & Regulatory Preemption:** Under **CPUC General Order 112-F**, **Cal. Pub. Util. Code §§ 451, 761 & 768**, **49 CFR Part 192**, and gas operator safety standards, large/deep-rooted trees (such as mature pine and pepper trees) are prohibited within **14 feet of the outer edge (wall) of the pipeline** on either side (a **28-foot-plus total exclusion corridor**, comprising `2 × 14'` plus the pipe outer diameter)[cite: 34]. State and federal pipeline-safety mandates preempt local municipal landscape rules (City Policy E-3), while ongoing municipal refusal to abate after formal P.E. disclosures implicates **Gov. Code § 835**, **Civil Code §§ 3479 & 3495**, **Gov. Code § 51182**, **Vista Del Verde Condition VP 1-21**, and **OCFA Guideline B-09**.
+     
 * **Nov. 19, 2026 – CPUC Field Inspection Conducted:** Following formal intake and referral to the CPUC Safety and Enforcement Division (SED) – Gas Safety and Reliability Branch, a CPUC field inspector contacted the property owner and conducted an on-site field inspection of the Chicago Avenue slope pipeline corridor (Lot 8, Tract 16043) on November 19, 2026.
 
 ### November 2026 Regulatory Escalation & Enforcement Filings
